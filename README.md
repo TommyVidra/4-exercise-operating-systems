@@ -6,7 +6,7 @@ The task was to simulate dynamical allocaion of an address register.
 
 For example: register size is 5
 
-## # # # # (an empty regisrer)
+# # # # # # (an empty regisrer)
 
 if we want to take up 1 space the register would look like this
 
